@@ -15,7 +15,7 @@ h1 {
   left: 50%;
   transform: translate(-50%, -265%);
   margin: 0;
-  background: url(PF.jpg) 50% 50%;
+  background: url(pf.jpg) 50% 50%;
   background-size: cover;
  -webkit-text-fill-color: transparent;
  -webkit-background-clip:text;

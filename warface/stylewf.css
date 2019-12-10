@@ -1,0 +1,68 @@
+body {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  font-family: "Quantico", sans-serif;
+}
+
+.body{
+  position: fixed;
+}
+
+h1 {
+  text-align: absolute;
+  font-size: 100px;
+  text-transform: uppercase;
+  font-weight: 500px;
+  letter-spacing: 3px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -370%);
+  margin: 0;
+  color: #e67024;
+}
+
+h2 {
+  text-align: absolute;
+  font-size: 40px;
+  text-transform: uppercase;
+  font-weight: 500px;
+  letter-spacing: 3px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-172%, -650%);
+  margin: 0;
+  color: #ffffff;
+}
+
+h3 {
+  text-align: absolute;
+  font-size: 40px;
+  text-transform: uppercase;
+  font-weight: 500px;
+  letter-spacing: 3px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(162%, -650%);
+  margin: 0;
+  color: #ffffff;
+}
+
+.WFProfile {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-100%, -450%);
+  display: inline-flex;
+}
+
+.WFClan {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(2%, -450%);
+  display: inline-flex;
+}
